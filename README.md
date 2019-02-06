@@ -93,5 +93,8 @@ $('#address_state_id').on('active_admin:cep_auto_complete', function(e, value, c
 });
 ```
 
-## Maintainer
-[Guilherme Reis](https://github.com/guilhermereis1)
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
